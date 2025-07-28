@@ -1,8 +1,9 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Love2D/Lua game programming.
+🔭 I’m currently working on:
+- Love2D/Lua game programming.
 - [A2I](https://github.com/westernesque/a2i): a music/audio to image experiment with Python and some free LLMs.
 
-- 📫 How to reach me: [email me!](mailto:rachelgarzadaring@gmail.com)
+📫 How to reach me: [email me!](mailto:rachelgarzadaring@gmail.com)
 
 <!--
 **westernesque/westernesque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
