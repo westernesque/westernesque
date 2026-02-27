@@ -1,8 +1,12 @@
 ## Hi there 👋
-🔭 I’m currently working on:
-- Love2D/Lua game programming.
-- [A2I](https://github.com/westernesque/a2i): a music/audio to image experiment with Python and some free LLMs.
-- [lovewright](https://github.com/westernesque/lovewright): a Love2D automated testing framework
+
+🔭 I'm currently working on:
+
+| Preview | Project |
+|---------|---------|
+| ![Nano MD](https://github.com/user-attachments/assets/072aff82-2cad-4bc5-a76a-b58a902ae930) | **Nano MD** — a Love2D medical multiplayer game inspired in part by Trauma Center |
+| ![A2I]() | **[A2I](https://github.com/westernesque/a2i)** — a music/audio to image experiment with Python and some free LLMs |
+| ![lovewright]() | **[lovewright](https://github.com/westernesque/lovewright)** — a Love2D automated testing framework |
 
 📫 How to reach me: [email me!](mailto:rachelgarzadaring@gmail.com)
 
