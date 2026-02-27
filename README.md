@@ -5,7 +5,7 @@
 | Preview | Project |
 |---------|---------|
 | ![Nano MD](https://github.com/user-attachments/assets/072aff82-2cad-4bc5-a76a-b58a902ae930) | **Nano MD** — a Love2D medical multiplayer game inspired in part by Trauma Center |
-| ![A2I]() | **[A2I](https://github.com/westernesque/a2i)** — a music/audio to image experiment with Python and some free LLMs |
+| ![A2I](https://github.com/user-attachments/assets/f439d552-31bb-4019-8c21-157e77e60465) | **[A2I](https://github.com/westernesque/a2i)** — a music/audio to image experiment with Python and some free LLMs |
 | ![lovewright]() | **[lovewright](https://github.com/westernesque/lovewright)** — a Love2D automated testing framework |
 
 📫 How to reach me: [email me!](mailto:rachelgarzadaring@gmail.com)
