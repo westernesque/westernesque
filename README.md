@@ -18,6 +18,7 @@ when i'm not programming something, you can usually find me hiking with my dog o
 - lua/love2d
 - typescript
 - violin
+- asesprite/pixel art
 
 <!--
 **westernesque/westernesque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
