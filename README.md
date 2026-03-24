@@ -14,7 +14,7 @@ when i'm not programming something, you can usually find me hiking with my dog o
 🌱 in my spare time i'm learning ...
 - ruby, rails
 - ai, llms
-- albeton live 12
+- ableton live 12
 - lua/love2d
 - typescript
 - violin
